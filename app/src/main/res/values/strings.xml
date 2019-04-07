@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">guessNumber</string>
+    <string name="guessNum">guess a Number!</string>
+    <string name="submitButton">提交</string>
+    <string name="sc">提交成功</string>
+    <string name="generateButton">生成</string>
+    <string name="hint1">请输入您猜的数字</string>
+    <string name="gc">生成随机数成功</string>
+</resources>
